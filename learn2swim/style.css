@@ -140,15 +140,9 @@ ul li:hover ul li a {
         top: 15px;
    }
 }
-
-h1 {
-
-    font-size: 60px;
-    margin-top: 2%;
-}
-
 h3 {
-    margin-top: 3%;
+    margin-top: 2%;
+    margin-bottom: 3%;
 }
 
 a {
