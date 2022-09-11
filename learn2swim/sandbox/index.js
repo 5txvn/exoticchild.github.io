@@ -1,9 +1,13 @@
 const translate = require('@iamtraction/google-translate');
 
-const codes = ["af", "sq", "am"]
+let tempObj = {}
 
-codes.forEach(code => {
-    translate("orange", { from: "en", to: code }).then(res => {
-        console.log(res.text)
+const fruits = ["red", "orange", "yellow", "green", "blue", "purple", "pink", "brown", "gray", "black", "white"]
+
+const codes = ["sq"]
+
+    fruits.forEach(fruit => {
+        translate(fruit, { from: "en", to: "sq" }).then(res => {
+            console.log(res.text)
+        })
     })
-})

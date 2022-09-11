@@ -1,0 +1,34 @@
+{
+    "autoTranslated": false,
+    "source": "https://glosbe.com/en/am",
+    "dataCompiler": "Steven Alexander Livingston",
+    "dataEditors": ["Steven Alexander Livingston"],
+    "dateCreated": "09/10/2022",
+    "dateEdited": "09/10/2022",
+    "editLog": [""],
+    "fluentSpeaker": false,
+    "baseLanguage": "en",
+    "targetLanguage": "am",
+    "gendersIncluded": false,
+    "englishPronunciationsIncluded": true,
+    "audiosIncluded": true,
+    "audioRoot": "amharic/count-to-10",
+    "audioSource": "https://micmonster.com/text-to-speech/chinese-mandarin-simplified/",
+    "words": {
+        "one": "አንድ",
+        "two": "ሁለት",
+        "three": "ሦስት",
+        "four": "አራት",
+        "five": "አምስት",
+        "six": "ስድስት",
+        "seven": "ሰባት",
+        "eight": "ስምንት",
+        "nine": "ዘጠኝ",
+        "ten": "ዐሥር"
+    },
+    "englishPronunciations": {
+        "one": "and",
+        "two": "hulet",
+        "three": ""
+    }
+}
